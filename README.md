@@ -21,17 +21,11 @@ Currently exploring opportunities in ML engineering, edge AI, and applied LLM sy
 
 ## Projects
 
-**[PlantHealthAI](https://github.com/ganeshasrinivasd/planthealthai)**  
-Multimodal pipeline using CNN, ResNet-UNet, and YOLOv5 for plant disease detection. 91% accuracy, 0.83 IoU on lesion segmentation. Quantized to 8-bit for sub-200ms mobile inference. Led the team and secured 3M funding.
-
 **[LLM Teaching Assistant](https://github.com/ganeshasrinivasd/llm-teaching-assistant)**  
 RAG pipeline that parses 230+ ML papers via GROBID, indexes with FAISS, and generates grounded lessons. FastAPI + React frontend with 35% faster responses through caching.
 
 **[Wandr AI](https://github.com/ganeshasrinivasd/wandr-ai-complete)**  
 Multi-agent travel planner with four specialized LLM agents handling parsing, research, route optimization, and itinerary generation. Built with Next.js, Supabase, and OpenAI.
-
-**[SQLGenie](https://github.com/ganeshasrinivasd/sqlgenie)**  
-Text-to-SQL system using fine-tuned T5, BART, and LLaMA2. 85% accuracy on WikiSQL. Implemented RAG on AWS SageMaker with Titan embeddings, improving semantic query accuracy by 15%.
 
 **[HackHarvard TB Detector](https://github.com/ganeshasrinivasd/HackHarvard21)**  
 Won Best Medical Hack. Transfer learning on chest X-rays with Grad-CAM for interpretability. Tested on 1K+ images.
